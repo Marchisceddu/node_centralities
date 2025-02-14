@@ -23,7 +23,7 @@ This project was created on MATLAB R2024b.
 ## How to Open the App  
 1. Clone the repository
 
-2. Open MATLAB and navigate to the [src/](https://github.com/Marchisceddu/node_centralities.git/src/) project folder.
+2. Open MATLAB and navigate to the [src/](https://github.com/Marchisceddu/node_centralities/tree/main/src) project folder.
 
 3. In the MATLAB Current Folder panel, locate the file node_centralities.mlapp.
 
